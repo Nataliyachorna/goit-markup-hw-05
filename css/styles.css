@@ -778,23 +778,12 @@ p {
   border-radius: 2px;
 }
 
-.check-text-span {
+.check-text span {
   width: 16px;
   height: 16px;
   border-radius: 2px;
   border: 1px solid rgba(46, 47, 66, 0.4);
   display: flex;
-  align-items: center;
-  justify-content: center;
-  fill: transparent;
-}
-
-.check-text-modal {
-  width: 16px;
-  height: 16px;
-  border-radius: 2px;
-  border: 1px solid rgba(46, 47, 66, 0.4);
-  display: inline-flex;
   align-items: center;
   justify-content: center;
   fill: transparent;
